@@ -1,0 +1,18 @@
+
+ERROR - 2020-02-04 10:17:44 --> Severity: error --> Exception: syntax error, unexpected ''image'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 67
+ERROR - 2020-02-04 10:20:47 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 25
+ERROR - 2020-02-04 10:20:47 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 26
+ERROR - 2020-02-04 10:20:47 --> Severity: Warning --> A non-numeric value encountered C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 18
+ERROR - 2020-02-04 10:20:47 --> Severity: Warning --> A non-numeric value encountered C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 19
+ERROR - 2020-02-04 10:25:53 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 25
+ERROR - 2020-02-04 10:25:53 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 26
+ERROR - 2020-02-04 10:25:53 --> Severity: Warning --> A non-numeric value encountered C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 18
+ERROR - 2020-02-04 10:25:53 --> Severity: Warning --> A non-numeric value encountered C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 19
+ERROR - 2020-02-04 10:31:00 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 23
+ERROR - 2020-02-04 10:31:00 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 24
+ERROR - 2020-02-04 10:35:58 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 23
+ERROR - 2020-02-04 10:35:58 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 24
+ERROR - 2020-02-04 10:38:25 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 23
+ERROR - 2020-02-04 10:38:25 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 24
+ERROR - 2020-02-04 10:42:00 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 23
+ERROR - 2020-02-04 10:42:00 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 24

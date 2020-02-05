@@ -1,0 +1,4 @@
+ERROR - 2020-01-31 08:29:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\mascitra\Besaf\Api\application\models\Super_admin_model.php 82
+ERROR - 2020-01-31 10:20:09 --> Severity: error --> Exception: syntax error, unexpected '$game_id' (T_VARIABLE) C:\xampp\htdocs\mascitra\Besaf\Api\application\models\Super_admin_model.php 59
+ERROR - 2020-01-31 10:20:57 --> Query error: Column 'name' cannot be null - Invalid query: INSERT INTO `role_game` (`name`, `game_id`) VALUES (NULL, 22)
+ERROR - 2020-01-31 10:20:57 --> Query error: Column 'name' cannot be null - Invalid query: INSERT INTO `role_game` (`name`, `game_id`) VALUES (NULL, 22)

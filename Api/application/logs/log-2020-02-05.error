@@ -1,0 +1,18 @@
+ERROR - 2020-02-05 10:03:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM 
+				game
+			INNER JOIN 
+				role_game on role_game.game_id = game.id
+	' at line 4 - Invalid query: 
+			SELECT
+				game.id,
+				game.name as game_name,
+			FROM 
+				game
+			INNER JOIN 
+				role_game on role_game.game_id = game.id
+			GROUP BY 
+				game.id
+		
+ERROR - 2020-02-05 10:03:31 --> Severity: error --> Exception: Call to a member function result_array() on boolean C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 111
+ERROR - 2020-02-05 10:15:06 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 51
+ERROR - 2020-02-05 10:15:06 --> Severity: Warning --> mkdir(): File exists C:\xampp\htdocs\mascitra\SuperAdmin\Api\application\models\Super_admin_model.php 52

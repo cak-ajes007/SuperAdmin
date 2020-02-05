@@ -1,0 +1,21 @@
+ERROR - 2020-01-30 09:43:55 --> Query error: Not unique table/alias: 'user_career' - Invalid query: 
+			SELECT 
+				user_career.id, 
+				user.full_name,
+				type,
+				teamname_or_solo_id,
+				user_career.image,
+				game.game_name
+				career_months,
+				career_years,
+				user_id 
+			FROM
+				user_career
+			INNER JOIN 
+				user on user.id = user_career.user_id
+			INNER JOIN 
+				user_career on user_career.game_id = game.id
+			WHERE 
+				user_id = '2'
+		
+ERROR - 2020-01-30 09:43:55 --> Severity: error --> Exception: Call to a member function result_array() on boolean C:\xampp\htdocs\mascitra\Besaf\Api\application\models\Profile_model.php 450
