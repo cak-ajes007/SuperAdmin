@@ -11,7 +11,7 @@
 						</div>
 						<div class="card-image">
 							<div class="pt-3 image-thumbnail">
-								<img src="<?= base_url()  ?>assets/Admin/img/illustration.jpg" alt="" style="width: 125px" class="img">
+								<img src="<?= base_url()  ?>assets/Admin/" alt="" style="width: 125px" class="img">
 							</div>
 						</div>
 						<div class="mt-3 text-center">
@@ -20,7 +20,7 @@
 								Dhaniar
 							</h5>
 							<div class="card-text text-secondary">
-								Programmer | Super Admin
+								Programmer | Super Admin 1
 							</div>
 						</div>
 					</div>
